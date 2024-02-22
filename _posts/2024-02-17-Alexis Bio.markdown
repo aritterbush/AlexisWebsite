@@ -7,5 +7,5 @@ categories:
 Hi! I am Alexis. I am in Dr. Barletta's Digital Humanities Class. I am posting this for a grade.
 I am master's student at UNO and my consentration is in Public history
 I hope with this degree, I can manage my own museum dedicated to music history. 
-which is shown below:
-![JPG File](/assets/Screenshotofmyself1.jpg)
+which is an image shown below:
+"C:\Users\acr54\OneDrive\Documents\GitHub\AlexisWebsite\_site\assets\screenshotofmyself1.jpg.jpg"
