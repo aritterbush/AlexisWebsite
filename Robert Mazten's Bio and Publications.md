@@ -20,4 +20,5 @@ List of his works:
 6. the Mystery of Flight
 
 My favortie publications is Dutch Girl: Audrey Hepburn in World War II
+![Robert Mazten Picture]({{site.baseurl}}/assets/RobertMazten'sPicture){:width="200'}
 
