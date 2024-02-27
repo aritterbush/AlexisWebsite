@@ -19,6 +19,6 @@ List of his works:
 5. Fireball: Carole Lombard 
 6. the Mystery of Flight
 
-My favortie publications is Dutch Girl: Audrey Hepburn in World War II
-![Robert Mazten Picture]({{site.baseurl}}/assets/RobertMazten'sPicture){:width="200'}
+My favortie publications is Dutch Girl: Audrey Hepburn in World War II aaaa
+![Robert Mazten Picture]({{site.baseurl}}/assets/RobertMaztensPicture.jpg){:width="200'}
 
